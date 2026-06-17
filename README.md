@@ -25,7 +25,7 @@ feature extraction → machine-learning classification, built in Python (SciPy +
 - Errors concentrate where they should — between **mechanically similar gestures (fist ↔ pinch)** —
   matching real myoelectric systems.
 
-## ⚠️ Data provenance
+## Data provenance
 The EMG signals are **simulated** and clearly labeled as such. Surface EMG is well-modeled as a
 zero-mean stochastic signal amplitude-modulated by muscle activation, generated here per gesture with
 realistic artifacts so the preprocessing is meaningful. Signal parameters (sampling rate, filter
