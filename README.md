@@ -4,7 +4,7 @@ A full surface-EMG (sEMG) pipeline for **hand-gesture recognition** — the comp
 **myoelectric prosthetic control** and **EMG-based neurorehabilitation**. Raw signal → filtering →
 feature extraction → machine-learning classification, built in Python (SciPy + scikit-learn).
 
-> **Author:** Isaac Glenu — Systems Design Engineering (Biomedical), University of Waterloo
+> **Author:** Isaac Glenu — Biomedical Engineering, University of Waterloo
 
 ---
 
